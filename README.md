@@ -1,5 +1,3 @@
-# React + TypeScript + Vite
-
 # Teknolojiler
 
 - react
